@@ -1,0 +1,3 @@
+[submodule "rnwebcomponent"]
+	path = rnwebcomponent
+	url = git@github.com:sunilyadavfabhotel/rnwebcomponent.git
